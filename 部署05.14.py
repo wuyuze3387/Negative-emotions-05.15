@@ -22,7 +22,7 @@ except FileNotFoundError:
 # 特征范围定义
 feature_names = [
     "Resilience", "Family support", "PBT", "Age", "Occupation", "MOD",
-    "Marital status", "Education", "income", "Medical insurance",
+    "Marital status", "Education", "Income", "Medical insurance",
     "MOC", "Pregnancy complications", "Breastfeeding", "Rooming-in", "Planned pregnancy",
     "Intrapartum pain", "Postpartum pain"
 ]
